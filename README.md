@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**JCMorales234/JCMorales234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## hello i'm Juan Camilo! **👋**
+i'm a systems engineer student from the Universidad Del Valle in Colombia, I like to learn about new technologies to improve as a engineer, also i have knows in different program lenguajes like Python, C++, Java, Javascript and I have worked in different projects that use HTML and CSS
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
